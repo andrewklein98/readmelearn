@@ -19,3 +19,9 @@ I met a traveler,
 from an antique land,  
 he said he had traveled in a desert, 
 OZYMANDIAS
+
+[Search for it](http://www.google.com)
+
+link to [google][google-link]
+
+[google-link]: http://www.google.com
