@@ -15,11 +15,16 @@ Body text
 		* 2 indent  
 * no indent  
 
+# **POETRY IS BALLER**
+<details>
+<summary>"Click to reveal the truth"</summary>
 I met a traveler,  
 from an antique land,  
 he said he had traveled in a desert, 
-OZYMANDIAS
+OZYMANDIAs
 <img align="right" width="200" height="200" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1471162014i/20006905._SX540_.jpg">
+</details>
+
 
 [Search for it](http://www.google.com)
 
