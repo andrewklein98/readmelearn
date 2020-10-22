@@ -9,10 +9,10 @@
 
 Body text 
 
-* no indent  
- * 1 indent  
- * 1 indent  
-  * 2 indent  
+* no indent
+	* 1 indent
+	* 1 indent  
+		* 2 indent  
 * no indent  
 
 I met a traveler,  
