@@ -19,12 +19,15 @@ I met a traveler,
 from an antique land,  
 he said he had traveled in a desert, 
 OZYMANDIAS
-![ozyman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1471162014i/20006905._SX540_.jpg)
+<img align="left" width= "200" height= "200" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1471162014i/20006905._SX540_.jpg"
+
 [Search for it](http://www.google.com)
 
 link to [google][google-link]
 
 [google-link]: http://www.google.com
- ![the darkness][green]
 
-[green]: https://releaseyourkraken.com/wp-content/uploads/2017/04/cthulhu-rising.jpg
+<p allign="centre"> 
+<img src="https://releaseyourkraken.com/wp-content/uploads/2017/04/cthulhu-rising.jpg">
+</p>
+
